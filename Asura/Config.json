@@ -1,0 +1,12 @@
+{
+    "name": "Asura",
+    "url": "https://asurascans.com",
+    "logo": "https://asurascans.com/images/logo.webp",
+    "verified": true,
+    "verifiedAt": "2026-06-11",
+    "features": [
+      "login",
+      "bookmarks",
+      "notifications"
+    ]
+  }

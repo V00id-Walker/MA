@@ -1,0 +1,13 @@
+{
+    "name": "Atsumaru",
+    "url": "https://atsu.moe",
+    "logo": "https://atsu.moe/favicon/apple-touch-icon.png",
+    "verified": true,
+    "verifiedAt": "2026-06-11",
+    "features": [
+      "login",
+      "comments",
+      "bookmarks",
+      "notifications"
+    ]
+  }

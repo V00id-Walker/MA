@@ -1,0 +1,13 @@
+{
+    "name": "Weebcentral",
+    "url": "https://weebcentral.com",
+    "logo": "https://weebcentral.com/static/images/brand.png",
+    "verified": true,
+    "verifiedAt": "2026-06-11",
+    "features": [
+      "login",
+      "comments",
+      "bookmarks",
+      "notifications"
+    ]
+  }
